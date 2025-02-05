@@ -1,0 +1,14 @@
+Para que funcione bien le servedor local
+para debemos que iniciar las cosas de la carpeta
+tenemos que selecionar
+para cerrar el servidor en windws con los guientes comandos Ctrl + C
+
+para cerrar la manera manual seria
+    tasklist | findstr "node"
+    taskkill /F /PID <PID_DEL_PROCESO>
+    ps aux | grep node
+    kill -9 <PID_DEL_PROCESO>
+
+
+
+
