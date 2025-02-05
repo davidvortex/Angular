@@ -1,0 +1,6 @@
+ejercicio con NodeModules para plantearlo
+si no tiene el NodeModules no funcionara las cosas
+para obtener la carpeta de NodeModules
+npm install
+
+
