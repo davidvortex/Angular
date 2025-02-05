@@ -1,0 +1,5 @@
+1.- abrir el cmd
+2.- ng new nombre_repositorio
+3.- damos enter
+4.- damos n y luego enter
+5.- listo ya saldra la creacion de nuestro nombre_repositorio
